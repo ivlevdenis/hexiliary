@@ -1,0 +1,10 @@
+.vscode
+.ruff_cache
+.pytest_cache
+.coverage
+.idea
+.tmp
+dist/
+local
+**/__pycache__
+.env
