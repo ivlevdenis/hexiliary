@@ -1,6 +1,6 @@
-<p align="center" width="100%">
+<div align="center" width="100%">
     <img width="33%" src="./public/imgs/hexiliary.svg" alt="Hexiliary"> 
-</p>
+</div>
 
 # Hexiliary
  
